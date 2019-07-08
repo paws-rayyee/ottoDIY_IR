@@ -7,11 +7,11 @@ Yet another otto DIY robot.  With IR remote control
 #### 註冊Tinkercad帳號  
 
 連上網站後可以看到右上角有SIGN IN和SIGN UP兩個選項，按下SIGN UP來註冊新帳號。  
-![Register 1](Reg-1.png)  
+![Register 1](images/Reg-1.png)  
 選擇地區和生日。  
-![Register 2](Reg-2.png)   
+![Register 2](images/Reg-2.png)   
 填上電郵地址及密碼  
-![Register 3](Reg-3.png)   
+![Register 3](images/Reg-3.png)   
 註冊完後系統就會自動轉至編輯頁面，而畫面上則出現第一個互動教學，使用者可按照底下方框內的文字說明進行操作。
 
 
