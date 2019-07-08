@@ -12,11 +12,12 @@ Yet another otto DIY robot.  With IR remote control
 ![Register 2](images/Reg-1.png)   
 填上電郵地址及密碼  
 ![Register 3](images/Reg-3.png)   
-註冊完後系統就會自動轉至編輯頁面，而畫面上則出現第一個互動教學，使用者可按照底下方框內的文字說明進行操作。
-
-
-
-
+註冊完後系統就會自動轉至編輯頁面，而畫面上則出現第一個互動教學，使用者可按照底下方框內的文字說明進行操作。  
+  
+### 切片軟體
+#### CURA
+  
+  
 ## 代碼編
 ### 環境準備
 - 安裝Arduino IDE程式，下載網址：https://www.arduino.cc/en/Main/Software  
