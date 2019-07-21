@@ -16,8 +16,12 @@ Yet another otto DIY robot.  With IR remote control
   
 ### 切片軟體
 #### CURA
-  
-  
+
+### 创想三维3D打印机教程：CR-100操作及打印视频  https://www.bilibili.com/video/av48710553/
+
+### 由於這次的騍堂有5天，所以不急著做機器人，先介紹什麼是「創客」，我教學的影片是 2015.10.17【民視異言堂】MAKER 自造者https://youtu.be/aDMZSVY2O4k
+
+ 
 ## 代碼編
 ### 環境準備
 - 安裝Arduino IDE程式，下載網址：https://www.arduino.cc/en/Main/Software  
