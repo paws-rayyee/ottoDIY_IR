@@ -27,6 +27,12 @@ Yet another otto DIY robot.  With IR remote control
 - 安裝Arduino IDE程式，下載網址：https://www.arduino.cc/en/Main/Software  
 ![arduino_download](images/Arduino_download.png)  
 
+## Arduino 學習 http://coopermaa2nd.blogspot.com  
+  
+  
+  
+  
+
 - 下載OTTO的相關程式，下載網址：https://github.com/OttoDIY/DIY   
 ![github_download](images/github_dowbload.png)  
 
